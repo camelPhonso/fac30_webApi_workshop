@@ -16,6 +16,7 @@ We'll definitely:
 
 We'll probably:
 - Explore and apply the principle of dependency inversion to loosely couple different parts of our code
+- Compare Inheritance and Composition as possible approaches for a few use cases in the code
 - Apply the Data Transfer Object pattern to separate our contract with the client from our internal architecture
 
 We'll maybe:
